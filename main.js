@@ -1,5 +1,3 @@
-// This helped me when I was new to redux, if you can understand how this works you can understand redux.
-
 const INCREMENT = "INCREMENT"; // Define a constant for increment action types
 const DECREMENT = "DECREMENT"; // Define a constant for decrement action types
 
